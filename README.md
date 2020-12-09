@@ -1,4 +1,4 @@
-# Covid-19_Rt_Estimation
+# Covid-19: R<sub>t</sub> Estimation
 
 O número reprodutivo basal ou razão de reprodução básica R<sub>0</sub> indica o quão contagiosa uma doença infecciosa é. O número aponta quantas pessoas, em média, um indivíduo infeccioso pode contagiar em uma população totalmente suscetível. Apesar de ser muito útil para avaliar o potencial de propagação de doenças infecciosas em diferentes contextos, é uma medida teórica.
 
